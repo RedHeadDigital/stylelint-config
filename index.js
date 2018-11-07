@@ -24,6 +24,7 @@ module.exports = {
           'function',
           'if',
           'else',
+          'elseif',
           'each',
           'for',
           'while',
